@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Note
 
 I'm taking a 3-day weekend since week 1 has been very busy. We'll be back Monday,
@@ -164,11 +165,18 @@ operator symbols with user defined precedence and associativity?
 # Day 1: Introducing Ion (March 13, 2018)
 - Video: https://www.youtube.com/watch?v=T6TyvsKo_KI
 - Follow up to yesterday's stream, time zone confusion
+=======
+# Day 1: Ion Overview (Match 13, 2018)
+>>>>>>> 5cd649b... Added file with stream notes and links to video of previous days
 - [Motivation](ion_motivation.md)
 - Example code
 
 # Day 0: Kickoff (March 12, 2018)
+<<<<<<< HEAD
 - Video: https://www.youtube.com/watch?v=ZjwvMcP3Nf0
+=======
+- Video: https://www.youtube.com/watch?v=ZjwvMcP3Nf0&t=3004s
+>>>>>>> 5cd649b... Added file with stream notes and links to video of previous days
 - Welcome
 - Expectations
 - Repository: https://github.com/pervognsen/bitwise/
